@@ -1,6 +1,4 @@
 #pragma once
-#include <string.h>
-#include <string>
 
 bool conversionFailed = false;
 double convertToDouble(const char vector[], int size) {
